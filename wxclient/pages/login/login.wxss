@@ -1,0 +1,5 @@
+/* pages/login/login.wxss */
+.btn{
+  text-align: center;
+  margin-top: 20rpx;
+}

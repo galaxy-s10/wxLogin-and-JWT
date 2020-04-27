@@ -1,0 +1,5 @@
+<!--pages/login/login.wxml-->
+<view class="btn">
+	<van-button type="danger" size="small" bindtap="getdata">获取数据</van-button>
+	<van-button type="primary" size="small" open-type="getUserInfo" bindgetuserinfo="handelGetUserInfo">获取用户信息</van-button>
+</view>

@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/login/login"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "usingComponents": {
+    "van-button": "/miniprogram_npm/@vant/weapp/button/index"
+  },
+  "sitemapLocation": "sitemap.json"
+}
